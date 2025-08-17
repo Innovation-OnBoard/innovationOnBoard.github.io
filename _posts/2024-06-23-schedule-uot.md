@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Schedule 2024-2025
+title: Schedule 2025-2026
 description: Innovation OnBoard Events
 image: /assets/images/pic02.jpg
 redirect_from:
@@ -23,16 +23,17 @@ weight: 1
                 </li>
                 <li class="timeline-item">
                     <div class="timeline-info">
-                        <span>Wednesday, September 25</span>
+                        <span>Tuesday, September 23</span>
                       <span class="timeline-time">4:30-6:30pm EDT</span>
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h3 class="timeline-title">Getting Started: Your Innovation Journey Begins</h3>
-                         <p><span class="timeline-desc">Location</span> | <a href="https://maps.app.goo.gl/FEpgmo7yRqaHEUXx5" target="_blank"> Toronto Rehabilitation Institute, 2nd floor auditorium</a></p>
-                       <p><span class="timeline-desc">Speaker</span> | <b>Dr. Paul Santerre</b> - Professor, Co-director at Health Innovation Hub, Baxter Chair in Health Technology & Commercialization (UHN)</p>
-                      <p><span class="timeline-desc">Case Study Workshop</span>  |  Dr. Santerre has published over 220 peer-reviewed publications and is a listed inventor on over 70 patents in the area of medical polymers. He is the co-founder and current director of the Health Innovation Hub at the University of Toronto, a student-focused entrepreneurial training co-curricular program that has trained over 650 client health science companies which have generated over $430 million CAD.</p>
-                      <p>This interactive workshop is your opportunity to get hands-on with real-world case studies as Dr. Santerre breaks down the startup lifecycle and highlights emerging opportunities in today’s entrepreneurial ecosystem.</p>
+                        <h3 class="timeline-title">Founders come in all forms</h3>
+                         <p><span class="timeline-desc">Location</span> | <a href="https://maps.app.goo.gl/SxidSKZP8Wz87PUN6" target="_blank"> Schwartz Reisman Innovation Campus, 7th floor Winter Garden</a></p>
+                       <p><span class="timeline-desc">Speakers</span> | <b>Dr. Wayne Pommen</b> - Chief Revenue Officer of Affirm, ex-CEO of PayBright <br>
+					   <b>Dr. Morgan Barense</b> - Professor of Psychology, founder & CEO of Hippocamera</p>
+                      <p><span class="timeline-desc">Fireside Chat</span>  |  Wayne Pommen is the founder and former CEO of PayBright. Under his leadership, PayBright grew from 5 to 250 employees and became one of Canada’s leading fintech companies, with retail clients including Apple, Hudson’s Bay, Wayfair, Samsung, and Sephora. PayBright was acquired by Affirm, where Wayne currently serves as Chief Revenue Officer. Morgan Barense is a professor at the University of Toronto, Glassman Chair in Neuropsychology, and the director of the Toronto Neuroimaging Facility. She is also the CEO and founder of Hippocamera. Under her leadership, Hippocamera applies advances in basic science to create practical, evidence-based solutions to combat memory loss.</p>
+                      <p>This event is cohosted with the Centre for Entrepreneurship at the Faculty of Arts and Science</p>
                          <!-- <ul class="actions">
                     <li><a href="https://www.eventbrite.ca/e/getting-started-your-innovation-journey-begins-tickets-1010022633887?aff=website" target="_blank" class="button special fit">RSVP</a></li>
                         </ul> -->
@@ -40,7 +41,7 @@ weight: 1
                 </li>
                 <!-- <li class="timeline-item">
                     <div class="timeline-info">
-                        <span>September, 2024</span>
+                        <span>September, 2025</span>
                         <span class="timeline-time">UofT Campus (TBD)</span>
                         <span class="timeline-time">4:30PM, Galbraith Building (GB221)</span>
                     </div>
