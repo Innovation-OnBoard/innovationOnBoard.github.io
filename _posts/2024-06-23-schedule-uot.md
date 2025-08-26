@@ -23,7 +23,7 @@ weight: 1
                 </li>
                 <li class="timeline-item">
                     <div class="timeline-info">
-                        <span>Tuesday, September  23</span>
+                        <span>Tuesday, September 23</span>
                       <span class="timeline-time">4:30-6:30pm EDT</span>
                     </div>
                     <div class="timeline-marker"></div>
@@ -34,7 +34,7 @@ weight: 1
 						   <b>Dr. Wayne Pommen</b> - Chief Revenue Officer, Affirm; ex-CEO, PayBright <br>
 					   <b>Dr. Morgan Barense</b> - Professor in Psychology, UofT; founder & CEO, Hippocamera</p>
                       <p><span class="timeline-desc">Fireside Chat</span>  |  Wayne Pommen is the founder and former CEO of PayBright. Under his leadership, PayBright grew from 5 to 250 employees and became one of Canada’s leading fintech companies, with retail clients including Apple, Hudson’s Bay, Wayfair, Samsung, and Sephora. PayBright was acquired by Affirm, where Wayne currently serves as Chief Revenue Officer. Morgan Barense is a professor at the University of Toronto, Glassman Chair in Neuropsychology, and the director of the Toronto Neuroimaging Facility. She is also the CEO and founder of Hippocamera. Under her leadership, Hippocamera applies advances in basic science to create practical, evidence-based solutions to combat memory loss.</p>
-                      <p>This event is cohosted with the Centre for Entrepreneurship at the Faculty of Arts and Science</p>
+                      <p>This event is cohosted with the Centre for Entrepreneurship at the Faculty of Arts and Science. Please signup at the CfE website. </p>
                          <!-- <ul class="actions">
                     <li><a href="https://www.eventbrite.ca/e/getting-started-your-innovation-journey-begins-tickets-1010022633887?aff=website" target="_blank" class="button special fit">RSVP</a></li>
                         </ul> -->
