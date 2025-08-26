@@ -23,7 +23,7 @@ weight: 1
                 </li>
                 <li class="timeline-item">
                     <div class="timeline-info">
-                        <span>Tuesday, September 23</span>
+                        <span>Tuesday, September  23</span>
                       <span class="timeline-time">4:30-6:30pm EDT</span>
                     </div>
                     <div class="timeline-marker"></div>
