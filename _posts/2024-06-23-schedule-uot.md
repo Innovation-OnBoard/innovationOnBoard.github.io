@@ -66,7 +66,7 @@ weight: 1
                 </li>
                 <li class="timeline-item">
                     <div class="timeline-info">
-                        <span>Monday, October 21</span>
+                        <span>Monday, October 22</span>
                         <span class="timeline-time">5:00-7:00pm EDT</span>
                     </div>
                     <div class="timeline-marker"></div>
