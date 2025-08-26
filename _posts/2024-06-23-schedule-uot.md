@@ -2,7 +2,7 @@
 layout: post
 title: Schedule 2025-2026
 description: Innovation OnBoard Events
-image: /assets/images/pic02.jpg
+image: /assets/images/uot1.jpg
 redirect_from:
   - /schedule/
   - /schedule.html
