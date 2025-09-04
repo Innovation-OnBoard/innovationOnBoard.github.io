@@ -1,12 +1,12 @@
 ---
 layout: post
-weight: 6
-name: Diana Malynovska
-title: Director of Marketing
+weight: 5
+name: Sachin Kodate
+title: VP - External Relations
 status: executive
-img: /assets/images/members/uot/diana.jpg
+img: /assets/images/members/uot/sachin.JPG
 campus: uot
 biography: >
-  Diana is a Masters of Information student at the University of Toronto, specializing in information systems and design.
-linkedin: https://www.linkedin.com/in/malynovska-diana/
+  I’m Sachin, an MBA student at Rotman with a background in driving Agile transformation at TD and RBC. Passionate about teamwork and innovation, I thrive on connecting people, solving complex challenges, and bringing big ideas to life.
+linkedin: [https://www.linkedin.com/in/malynovska-diana/](https://www.linkedin.com/in/sachinkodate/)
 ---
