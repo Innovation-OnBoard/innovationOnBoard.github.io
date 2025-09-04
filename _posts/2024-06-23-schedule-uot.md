@@ -187,7 +187,7 @@ He is also a Professor at the Temerty Faculty of Medicine and the Dalla Lana Sch
                     <li class="timeline-item">
                     <div class="timeline-info">
                         <span>TBA</span>
-                      <span class="timeline-time"> </span>
+                      <span class="timeline-time">TBA</span>
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
@@ -227,7 +227,7 @@ He is also a Professor at the Temerty Faculty of Medicine and the Dalla Lana Sch
                 <li class="timeline-item">
                     <div class="timeline-info">
                         <span>TBA</span>
-			    <span class="timeline-time"> </span>
+			    <span class="timeline-time">TBA</span>
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
@@ -243,7 +243,7 @@ He is also a Professor at the Temerty Faculty of Medicine and the Dalla Lana Sch
                 <li class="timeline-item">
                     <div class="timeline-info">
                         <span>TBA</span>
-			<span class="timeline-time"></span>
+			<span class="timeline-time">TBA</span>
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
@@ -280,7 +280,7 @@ He is also a Professor at the Temerty Faculty of Medicine and the Dalla Lana Sch
                  <li class="timeline-item">
                     <div class="timeline-info">
                         <span>TBA</span>
-			    <span class="timeline-time"> </span>
+			    <span class="timeline-time">TBA</span>
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
