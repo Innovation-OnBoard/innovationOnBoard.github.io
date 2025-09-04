@@ -1,12 +1,12 @@
 ---
 layout: post
-weight: 11
+weight: 3
 name: Diana Galarraga
 title: Director of Operations
 status: executive
 img: /assets/images/members/uot/dianag.png
 campus: uot
 biography: >
-  Diana Galarraga holds a Master in Neuroscience from Universitat Pompeu Fabra.
+  Diana holds a Master’s in Neuroscience specializing in Neuropharmacology, where she explored innovative Alzheimer’s research. Now she brings that same love of discovery to entrepreneurship at Blue Ocean. Outside work, you’ll find her outdoors adventuring with my dog!
 linkedin: https://www.linkedin.com/in/dianagalarraga/
 ---
