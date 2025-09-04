@@ -2,8 +2,8 @@
 layout: post
 weight: 7
 name: Chuyi (Judy) He
-title: Chief Happiness Officer
-status: Director - Internal Affairs
+title: Director - Internal Affairs
+status: executive
 img: /assets/images/members/uot/judy.JPG
 campus: uot
 biography: >
