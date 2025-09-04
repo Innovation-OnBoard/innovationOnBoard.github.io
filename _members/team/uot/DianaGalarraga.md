@@ -2,7 +2,7 @@
 layout: post
 weight: 3
 name: Diana Galarraga
-title: Director of Operations
+title: VP - Internal Affairs
 status: executive
 img: /assets/images/members/uot/dianag.png
 campus: uot
