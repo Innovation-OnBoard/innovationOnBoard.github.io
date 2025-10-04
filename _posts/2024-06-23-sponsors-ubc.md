@@ -12,7 +12,7 @@ weight: 2
 
 <!-- <h1 style="color: #2a2f4a !important;">Sponsors</h1>  -->
 
-<h1 style="color: #2a2f4a !important;">Sponsors & Partners 2024-2025</h1>
+<h1 style="color: #2a2f4a !important;">Sponsors & Partners 2025-2026</h1>
 
 <div class="row">
 {% assign sponsors = site.sponsors | where: 'campus', 'ubc' | sort: 'weight' %}

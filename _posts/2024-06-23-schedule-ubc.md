@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Schedule
+title: Schedule (2025-2026)
 description: Innovation OnBoard Events
 image: /assets/images/pic02.jpg
 redirect_from:
@@ -15,56 +15,22 @@ weight: 1
         <ul class="timeline">
           <li class="timeline-item">
             <div class="timeline-info">
-              <span>September 19, 2024</span>
-              <span class="timeline-time">TBD</span>
-            </div>
-            <div class="timeline-marker"></div>
-            <div class="timeline-content">
-              <h3 class="timeline-title">IOB Introduction + Social</h3>
-              <p>
-                <span class="timeline-desc">Speakers</span> |<br />
-                <b>Chang Han</b> - Lead EiR (Entrepreneur in Residence) at e@UBC<br />
-                <b>Francis Steiner</b> - EiR at e@UBC; HATCH Founder; COO of Proton
-                Intelligence Inc.<br />
-                <b>Nikita Telkar</b> - Co-Lead, National Strategy / Regional Director of
-                Nucleate
-              </p>
-            </div>
-          </li>
-
-          <li class="timeline-item">
-            <div class="timeline-info">
-              <span>September 26, 2024</span>
+              <span>September 24, 2025</span>
               <span class="timeline-time">TBD</span>
             </div>
             <div class="timeline-marker"></div>
             <div class="timeline-content">
               <h3 class="timeline-title">Where to Start with Entrepreneurship?</h3>
               <p>
-                <span class="timeline-desc">Speaker</span> |<br />
-                <b>Chang Han</b> - Lead EiR (Entrepreneur in Residence) at e@UBC<br />
+                <span class="timeline-desc">Speakers</span> |<br />
+                <b>Hassan Pardwalla</b> - COO, ReAct Materials<br />
               </p>
             </div>
           </li>
 
           <li class="timeline-item">
             <div class="timeline-info">
-              <span>October 24, 2024</span>
-              <span class="timeline-time">CHBE 101</span>
-            </div>
-            <div class="timeline-marker"></div>
-            <div class="timeline-content">
-              <h3 class="timeline-title">Building a Business Plan</h3>
-              <p>
-                <span class="timeline-desc">Speaker</span> |<br />
-                <b>Hassan Pardawalla</b>
-              </p>
-            </div>
-          </li>
-
-          <li class="timeline-item">
-            <div class="timeline-info">
-              <span>November 7, 2024</span>
+              <span>October 08, 2025</span>
               <span class="timeline-time">TBD</span>
             </div>
             <div class="timeline-marker"></div>
@@ -72,65 +38,109 @@ weight: 1
               <h3 class="timeline-title">Teaming and Ideation Workshop</h3>
               <p>
                 <span class="timeline-desc">Speaker</span> |<br />
-                <b>Angele Beausoleil</b> - Assistant Professor of Teaching,
-                Entrepreneurship and Innovation at Sauder Business School<br />
+                <b>Angele Beausoleil</b> - Assistant Professor of Teaching, Entrepreneurship and Innovation at Sauder Business School<br />
               </p>
             </div>
           </li>
 
           <li class="timeline-item">
             <div class="timeline-info">
-              <span>November 21, 2024</span>
+              <span>October 22, 2025</span>
               <span class="timeline-time">TBD</span>
             </div>
             <div class="timeline-marker"></div>
             <div class="timeline-content">
-              <h3 class="timeline-title">Market Research and Hypothesis Validation</h3>
+              <h3 class="timeline-title">Fireside Chat, Panel Event</h3>
               <p>
                 <span class="timeline-desc">Speaker</span> |<br />
-                <b>Angela Hamilton</b> - Entrepreneur in Residence, CORE Stream Lead<br />
+                <b>Fraser Pogue</b>
               </p>
             </div>
           </li>
 
           <li class="timeline-item">
             <div class="timeline-info">
-              <span>December 5, 2024</span>
+              <span>November 05, 2025</span>
               <span class="timeline-time">TBD</span>
             </div>
             <div class="timeline-marker"></div>
             <div class="timeline-content">
-              <h3 class="timeline-title">Intellectual Property</h3>
+              <h3 class="timeline-title">Market Research and Hypothesis Validation Lecture</h3>
               <p>
                 <span class="timeline-desc">Speaker</span> |<br />
-                <b>Cynthia Shippman</b> - Industrial Technology Advisor at National
-                Research Council Canada<br />
+                <b>Cam Melvin</b> - EIR at e@UBC, Principal Consultant at Martelo Strategic Consulting<br />
               </p>
             </div>
           </li>
 
           <li class="timeline-item">
             <div class="timeline-info">
-              <span>January 9, 2025</span>
+              <span>November 19, 2025</span>
+              <span class="timeline-time">TBD</span>
+            </div>
+            <div class="timeline-marker"></div>
+            <div class="timeline-content">
+              <h3 class="timeline-title">Product Development and MVP</h3>
+              <p>
+                <span class="timeline-desc">Speaker</span> |<br />
+                <b>Clayton Weir</b> - EIR at e@UBC, ECO of FISPAN<br />
+              </p>
+            </div>
+          </li>
+
+          <li class="timeline-item">
+            <div class="timeline-info">
+              <span>November 26, 2025</span>
+              <span class="timeline-time">TBD</span>
+            </div>
+            <div class="timeline-marker"></div>
+            <div class="timeline-content">
+              <h3 class="timeline-title">Design Thinking Spirit</h3>
+              <p>
+                <span class="timeline-desc">About</span> |<br />
+                Hands-on Bootcamp in collaboration with UBC Startups organization<br />
+              </p>
+            </div>
+          </li>
+
+          <li class="timeline-item">
+            <div class="timeline-info">
+              <span>January 14, 2026</span>
               <span class="timeline-time">TBD</span>
             </div>
             <div class="timeline-marker"></div>
             <div class="timeline-content">
               <h3 class="timeline-title">
-                Innovation, Storytelling, and Storyselling - Workshop
+                Pitching Workshop
               </h3>
               <p>
                 <span class="timeline-desc">Speaker</span> |<br />
-                <b>Angele Beausoleil</b> - Assistant Professor of Teaching,
-                Entrepreneurship and Innovation at Sauder Business School<br />
+                <b>Michelle Sklar</b> - Head of Venture Growth Strategy & Entrepreneur In Residence at entrepreneurship@UBC, Board Member with the VEF<br />
               </p>
             </div>
           </li>
 
           <li class="timeline-item">
             <div class="timeline-info">
-              <span>January 21, 2025</span>
-              <span class="timeline-time">6:00PM, AMS Great Hall</span>
+              <span>January 28, 2026</span>
+              <span class="timeline-time">TBD</span>
+            </div>
+            <div class="timeline-marker"></div>
+            <div class="timeline-content">
+              <h3 class="timeline-title">
+                Innovation, Storytelling, and Storytelling
+              </h3>
+              <p>
+                <span class="timeline-desc">Speaker</span> |<br />
+                <b>Angele Beausoleil</b> - Assistant Professor of Teaching, Entrepreneurship and Innovation at Sauder Business School<br />
+              </p>
+            </div>
+          </li>
+
+          <li class="timeline-item">
+            <div class="timeline-info">
+              <span>February 11, 2026</span>
+              <span class="timeline-time">TBD</span>
             </div>
             <div class="timeline-marker"></div>
             <div class="timeline-content">
@@ -140,51 +150,46 @@ weight: 1
 
           <li class="timeline-item">
             <div class="timeline-info">
-              <span>January 30, 2025</span>
+              <span>February 25, 2026</span>
               <span class="timeline-time">TBD</span>
             </div>
             <div class="timeline-marker"></div>
             <div class="timeline-content">
-              <h3 class="timeline-title">Pitching Workshop</h3>
+              <h3 class="timeline-title">The Pivot Point</h3>
               <p>
                 <span class="timeline-desc">Speaker</span> |<br />
-                <b>Michelle Sklar</b> - Head of Venture Growth Strategy & Entrepreneur
-                In Residence at entrepreneurship@UBC, Board Member with the VEF<br />
+                <b>Nickolas Steel</b> - Founder of DentalRx<br />
               </p>
             </div>
           </li>
 
           <li class="timeline-item">
             <div class="timeline-info">
-              <span>February 6, 2025</span>
-              <span class="timeline-time"
-                >6:30PM, UBC Alumni Center - Jack Poole Hall</span
-              >
+              <span>March 04, 2026</span>
+              <span class="timeline-time">TBD</span>
             </div>
             <div class="timeline-marker"></div>
             <div class="timeline-content">
-              <h3 class="timeline-title">Pitch Competition</h3>
+              <h3 class="timeline-title">Legal 101 for Founders</h3>
+              <p>
+                <!-- <span class="timeline-desc">About</span> |<br />
+                Planning to feature UBC Alumni from Allard School of Law<br /> -->
+              </p>
             </div>
           </li>
 
           <li class="timeline-item">
             <div class="timeline-info">
-              <span>February 13, 2025</span>
+              <span>Macrh 11, 2026</span>
               <span class="timeline-time">TBD</span>
             </div>
             <div class="timeline-marker"></div>
             <div class="timeline-content">
-              <h3 class="timeline-title">
-                Entrepreneurial Resources and Funding Insights Event
-              </h3>
+              <h3 class="timeline-title">Pitch Competition / Entrepreneurial Resources and Funding Insights</h3>
               <p>
-                <span class="timeline-desc">Speakers</span> |<br />
-                <b>Francis Steiner</b> - EiR at e@UBC; HATCH Founder; COO of Proton
-                Intelligence Inc.<br />
-                <b>Angela Hamilton</b> - Venture Founder Program<br />
-                <b>Nikita Telkar</b> - Front Row Ventures Investment Analyst, Director
-                of Nucleate in BC<br />
-                <b>Non-dilutive Funding Speaker</b> - Reached out to Futureprenuer<br />
+                <!-- <span class="timeline-desc">Speaker</span> |<br />
+                <b>Michelle Sklar</b> - Head of Venture Growth Strategy & Entrepreneur
+                In Residence at entrepreneurship@UBC, Board Member with the VEF<br /> -->
               </p>
             </div>
           </li>
