@@ -45,7 +45,7 @@ weight: 1
 
           <li class="timeline-item">
             <div class="timeline-info">
-              <span>October 22, 2025</span>
+              <span>October 29, 2025</span>
               <span class="timeline-time">TBD</span>
             </div>
             <div class="timeline-marker"></div>
@@ -180,7 +180,7 @@ weight: 1
 
           <li class="timeline-item">
             <div class="timeline-info">
-              <span>Macrh 11, 2026</span>
+              <span>March 11, 2026</span>
               <span class="timeline-time">TBD</span>
             </div>
             <div class="timeline-marker"></div>
