@@ -61,7 +61,7 @@ weight: 1
           <li class="timeline-item">
             <div class="timeline-info">
               <span>November 05, 2025</span>
-              <span class="timeline-time">TBD</span>
+              <span class="timeline-time"> Location: CHBE 202 </span>
             </div>
             <div class="timeline-marker"></div>
             <div class="timeline-content">
@@ -76,7 +76,7 @@ weight: 1
           <li class="timeline-item">
             <div class="timeline-info">
               <span>November 19, 2025</span>
-              <span class="timeline-time">TBD</span>
+              <span class="timeline-time"> Location: CHBE 202 </span>
             </div>
             <div class="timeline-marker"></div>
             <div class="timeline-content">
@@ -106,7 +106,7 @@ weight: 1
           <li class="timeline-item">
             <div class="timeline-info">
               <span>January 14, 2026</span>
-              <span class="timeline-time">TBD</span>
+              <span class="timeline-time"> Location: CHBE 102 </span>
             </div>
             <div class="timeline-marker"></div>
             <div class="timeline-content">
@@ -123,7 +123,7 @@ weight: 1
           <li class="timeline-item">
             <div class="timeline-info">
               <span>January 28, 2026</span>
-              <span class="timeline-time">TBD</span>
+              <span class="timeline-time"> Location: CHBE 202</span>
             </div>
             <div class="timeline-marker"></div>
             <div class="timeline-content">
@@ -151,7 +151,7 @@ weight: 1
           <li class="timeline-item">
             <div class="timeline-info">
               <span>February 25, 2026</span>
-              <span class="timeline-time">TBD</span>
+              <span class="timeline-time"> Location: CHBE 102</span>
             </div>
             <div class="timeline-marker"></div>
             <div class="timeline-content">
