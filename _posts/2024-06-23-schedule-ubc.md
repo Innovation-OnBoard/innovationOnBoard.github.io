@@ -16,7 +16,7 @@ weight: 1
           <li class="timeline-item">
             <div class="timeline-info">
               <span>September 24, 2025</span>
-              <span class="timeline-time">TBD</span>
+              <span class="timeline-time"> Location: CHBE 102</span>
             </div>
             <div class="timeline-marker"></div>
             <div class="timeline-content">
@@ -31,7 +31,7 @@ weight: 1
           <li class="timeline-item">
             <div class="timeline-info">
               <span>October 08, 2025</span>
-              <span class="timeline-time">TBD</span>
+              <span class="timeline-time"> Location: CHBE 101 </span>
             </div>
             <div class="timeline-marker"></div>
             <div class="timeline-content">
@@ -46,7 +46,7 @@ weight: 1
           <li class="timeline-item">
             <div class="timeline-info">
               <span>October 29, 2025</span>
-              <span class="timeline-time">TBD</span>
+              <span class="timeline-time"> Location: Graham Lee Innovation Centre </span>
             </div>
             <div class="timeline-marker"></div>
             <div class="timeline-content">
