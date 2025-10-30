@@ -52,8 +52,12 @@ weight: 1
             <div class="timeline-content">
               <h3 class="timeline-title">Fireside Chat, Panel Event</h3>
               <p>
-                <span class="timeline-desc">Speaker</span> |<br />
+                <span class="timeline-desc">Moderator</span> |<br />
                 <b>Fraser Pogue</b>
+              </p>
+              <p>
+                <span class="timeline-desc">Panelists</span> |<br />
+                <b>Harvey Conner, Laura Chodola, Ash Gharahgozli, Devyn Benner</b>
               </p>
             </div>
           </li>
@@ -172,8 +176,8 @@ weight: 1
             <div class="timeline-content">
               <h3 class="timeline-title">Legal 101 for Founders</h3>
               <p>
-                <!-- <span class="timeline-desc">About</span> |<br />
-                Planning to feature UBC Alumni from Allard School of Law<br /> -->
+                <span class="timeline-desc">Speaker</span> |<br />
+                <b>Martin Smith</b> <br />
               </p>
             </div>
           </li>
