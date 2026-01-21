@@ -1,6 +1,6 @@
 ---
 layout: post
-weight: 200
+weight: 100
 name: New Ventures BC
 status: present
 img: /assets/images/sponsors/newventuresbc.png

@@ -1,6 +1,6 @@
 ---
 layout: post
-weight: 200
+weight: 100
 name: AMS
 status: present
 img: /assets/images/sponsors/ams.png

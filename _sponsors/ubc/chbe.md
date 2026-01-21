@@ -2,7 +2,7 @@
 layout: post
 weight: 100
 name: UBC CHBE Department
-status: present
+status: past
 img: /assets/images/sponsors/chbe.png
 campus: ubc
 ---
