@@ -22,6 +22,25 @@ weight: 1
       <p>
        Innovation OnBoard is a student-led entrepreneurship program featuring bi-weekly seminars and workshops, culminating in a premier venture competition where teams compete for cash prizes. We foster innovation by providing a forum to build cohesive, multidisciplinary teams, simplify the entrepreneurial experience, and launch new ventures.
       </p>
+      <!-- New line and button layout -->
+      <div style="display: flex; align-items: center; gap: 25px; flex-wrap: wrap;">
+        <p style="margin: 0; font-weight: bold; text-transform: uppercase; letter-spacing: 1px; font-size: 18px;">
+          Next Up: The Final Pitch Competition
+        </p>
+        <ul class="actions" style="margin: 0; padding: 0; list-style: none;">
+          <li style="padding: 0; margin: 8px 0 0 0;"> 
+            <a href="https://www.eventbrite.ca/e/the-final-pitch-competition-tickets-1983318733722" 
+              target="_blank" 
+              rel="noopener noreferrer" 
+              class="button fit" 
+              style="color: white; background-color: transparent; transition: 0.3s; border: 1px solid white;"
+              onmouseover="this.style.color='white'; this.style.backgroundColor='#002047'; this.style.borderColor='#002047';" 
+              onmouseout="this.style.color='white'; this.style.backgroundColor='transparent'; this.style.borderColor='white';">
+              Sign Up as a Guest
+            </a>
+          </li>
+        </ul>
+      </div>
     </div>
   </section>
 <div id="main" class="alt">
