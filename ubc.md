@@ -28,38 +28,6 @@ weight: 1
     <section id="one" class="alt">
       <div class="inner">
         <header>
-          <!-- <div class="row">
-            <div class="6u 12u$(small)">
-              <div class="box">
-                <h1>Workshops Sign Up</h1>
-                <p>
-                  Unlock the path to entrepreneurship, connect with fellow startup enthusiasts, and gain valuable
-                  insights from experienced entrepreneurs and industry experts. Sign up to receive event reminders.
-                </p>
-                <ul class="actions fit">
-                  <li>
-                    <a href="{{ '/participant-signup.html' | prepend: site.baseurl | prepend: site.url }}"
-                      target="_blank" class="button fit">Sign Up</a>
-                  </li>
-                </ul>
-              </div>
-            </div>
-            <div class="6u 12u$(small)">
-              <div class="box">
-                <h1>Join the IOB Team</h1>
-                <p> Looking to get involved in an exciting project? Apply now, and we’ll reach out to you via email. Joining IOB is a fantastic opportunity to build valuable experience. 
-                  <br>
-                </p>
-                <br>
-                <ul class="actions fit">
-                  <li>
-              <a href="{{ '/job-posting' | prepend: site.baseurl | prepend: site.url }}" class="button fit"
-                  style="color: white; background-color:#002047">Apply Here</a>
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </div> -->
           <div class="row">
             <div class="6u 12u$(small)">
               <div class="box">
@@ -94,7 +62,7 @@ weight: 1
                       target="_blank" class="button fit">Newsletter Sign Up</a>
                   </li>
                   <li>
-              <a href="https://discord.gg/r5QMcBXfBJ" target="_blank" rel="noopener noreferrer" class="button fit" style="color: white; background-color:#002047">Discord</a>
+              <a href="https://discord.gg/Y95GrgqcCS" target="_blank" rel="noopener noreferrer" class="button fit" style="color: white; background-color:#002047">Discord</a>
                   </li>
                 </ul>
               </div>
