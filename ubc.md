@@ -25,18 +25,18 @@ weight: 1
       <!-- New line and button layout -->
       <div style="display: flex; align-items: center; gap: 25px; flex-wrap: wrap;">
         <p style="margin: 0; font-weight: bold; text-transform: uppercase; letter-spacing: 1px; font-size: 18px;">
-          Next Up: The Final Pitch Competition
+          Next Up: We're Hiring for Executive Positions
         </p>
         <ul class="actions" style="margin: 0; padding: 0; list-style: none;">
           <li style="padding: 0; margin: 8px 0 0 0;"> 
-            <a href="https://www.eventbrite.ca/e/the-final-pitch-competition-tickets-1983318733722" 
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSe2Q-T7t88xZXe7mXDa8LnnDqYo7TE4__0Fgxk7rqGmDta5Jw/viewform" 
               target="_blank" 
               rel="noopener noreferrer" 
               class="button fit" 
               style="color: white; background-color: transparent; transition: 0.3s; border: 1px solid white;"
               onmouseover="this.style.color='white'; this.style.backgroundColor='#002047'; this.style.borderColor='#002047';" 
               onmouseout="this.style.color='white'; this.style.backgroundColor='transparent'; this.style.borderColor='white';">
-              Sign Up as a Guest
+              Apply Now
             </a>
           </li>
         </ul>
