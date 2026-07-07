@@ -1,6 +1,6 @@
 ---
 layout: post
-weight: 2
+weight: 7
 name: Ziming Cheng
 title: Co-President
 status: executive
