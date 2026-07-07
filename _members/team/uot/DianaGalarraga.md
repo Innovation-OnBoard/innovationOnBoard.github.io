@@ -1,6 +1,6 @@
 ---
 layout: post
-weight: 3
+weight: 6
 name: Diana Galarraga
 title: VP - Internal Affairs
 status: executive
