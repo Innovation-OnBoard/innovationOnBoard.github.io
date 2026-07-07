@@ -1,6 +1,6 @@
 ---
 layout: post
-weight: 1
+weight: 6
 name: Victoria Liu
 title: Co-President
 status: executive
