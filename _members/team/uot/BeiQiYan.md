@@ -1,6 +1,6 @@
 ---
 layout: post
-weight: 4
+weight: 1
 name: Bei Qi Yan
 title: President
 status: executive
