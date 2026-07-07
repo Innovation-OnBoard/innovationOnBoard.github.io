@@ -1,6 +1,6 @@
 ---
 layout: post
-weight: 6
+weight: 2
 name: Karida Liu
 title: VP - Marketing
 status: executive
