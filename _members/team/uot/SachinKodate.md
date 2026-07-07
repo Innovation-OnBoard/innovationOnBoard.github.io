@@ -1,6 +1,6 @@
 ---
 layout: post
-weight: 5
+weight: 3
 name: Sachin Kodate
 title: VP - External Relations
 status: executive
