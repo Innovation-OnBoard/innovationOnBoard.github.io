@@ -1,6 +1,6 @@
 ---
 layout: post
-weight: 4
+weight: 5
 name: Alejandra Featherston
 title: VP - Events & Programming
 status: executive
