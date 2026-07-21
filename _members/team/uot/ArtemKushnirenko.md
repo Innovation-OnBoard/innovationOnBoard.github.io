@@ -1,6 +1,6 @@
 ---
 layout: post
-weight: 5
+weight: 4
 name: Artem Kushnirenko
 title: VP - Partnership & Outreach
 status: executive
