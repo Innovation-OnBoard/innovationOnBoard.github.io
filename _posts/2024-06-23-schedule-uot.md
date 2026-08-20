@@ -46,10 +46,10 @@ weight: 1
         </a>
     </li>
 </ul>
-                    </div>
-                </li>
-            </ul>
-        </div>
+</div>
+</li>
+</ul>
+</div>
 </div>
 						
 <div class="row">
