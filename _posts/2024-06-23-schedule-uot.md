@@ -45,7 +45,8 @@ weight: 1
             Sign Up Now!
         </a>
     </li>
-</ul></div></li></ul></div></div>				
+</ul>
+					
 <div class="row">
         <div class="12u$(small)">
             <ul class="timeline">
