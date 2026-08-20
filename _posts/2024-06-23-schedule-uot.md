@@ -10,7 +10,44 @@ tags: uot
 short-title: UoT
 weight: 1
 ---
-
+<div class="row">
+        <div class="12u$(small)">
+            <ul class="timeline">
+                <li class="timeline-item period">
+                    <div class="timeline-info"></div>
+                    <div class="timeline-marker-i"></div>
+                    <div class="timeline-content">
+                        <span class="button timeline-title header-inner">September 2026</span>
+                    </div>
+                </li>
+                <li class="timeline-item">
+                    <div class="timeline-info">
+                        <span>Monday, September 21</span>
+                      <span class="timeline-time">4:30-6:30pm EDT</span>
+                    </div>
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <h3 class="timeline-title">Building in the Age of AI: The Founder's Playbook</h3>
+                         <p><span class="timeline-desc">Location</span> | <a href="https://maps.app.goo.gl/SxidSKZP8Wz87PUN6" target="_blank"> Toronto Rehab, 2nd floor Auditorium </a></p>
+                       <p><span class="timeline-desc">Speakers</span> | <br>
+						   <b>Warren Ali</b> - Director of Industry Development at the Vector Institute <br>
+					   <b>Dr. Nardin Samuel</b> - CEO and Co-Founder of Cove Neurosciences </p>
+						<p>Artificial intelligence is changing not just what we can build, but how quickly ideas move from concept to reality. Foundation models, open-source tools, and accessible infrastructure have thrown the doors wide open, and that changes everything about what founders can build, and how fast they can build it.<p>
+						<p>But more access means tougher questions. Where does AI actually create value, versus just adding buzz? What does it take for a small, early-stage team to build something technically rigorous and genuinely different in a crowded field? And as products move fast, how do you ensure reliability, privacy, transparency, and responsible deployment from day one, instead of treating them as an afterthought?<p>
+						<p>Join Innovation OnBoard for a panel with Warren Ali, Director of Industry Development at the Vector Institute and Dr. Nardin Samuel, CEO and Co-Founder of Cove Neurosciences, on building technology-driven ventures in today’s fast-evolving AI landscape. Drawing on experience in AI, healthcare, commercialization, and startups, they will explore how founders can turn ideas into scalable, trusted, and valuable AI-enabled products.<p>
+						<p>The panel will be followed by a live audience Q&A and an informal networking session with students, researchers, founders, and members of Toronto’s technology and innovation community.<p>
+                         <ul class="actions">
+    <li>
+        <a href="https://iob2026sep_nardinwarren.eventbrite.ca"
+           target="_blank"
+           rel="noopener noreferrer"
+           class="button special fit">
+            Sign Up Now!
+        </a>
+    </li>
+</ul>
+</ul>
+						
 <div class="row">
         <div class="12u$(small)">
             <ul class="timeline">
