@@ -4,7 +4,7 @@ weight: 1
 name: Victoria Liu
 title: Ex-President
 status: board
-img: /assets/images/members/uot/victoria.JPG
+img: /assets/images/members/uot/victoria.png
 campus: uot
 biography: >
    Victoria...
