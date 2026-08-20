@@ -48,6 +48,10 @@ weight: 1
     </li>
 </ul>
 
+<div class="row">
+        <div class="12u$(small)">
+            <ul class="timeline">
+
                 <li class="timeline-item period">
                     <div class="timeline-info"></div>
                     <div class="timeline-marker-i"></div>
