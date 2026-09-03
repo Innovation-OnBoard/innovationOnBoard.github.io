@@ -1,6 +1,6 @@
 ---
 layout: post
-weight: 2
+weight: 3
 name: Sophie Stuart-Sheppard
 title: Programming Lead, H2i
 status: board
