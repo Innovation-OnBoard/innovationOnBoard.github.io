@@ -6,7 +6,6 @@ title: Ex-President
 status: board
 img: /assets/images/members/uot/victoria.png
 campus: uot
-biography: >
-   Victoria...
+biography: 
 linkedin: 
 ---
