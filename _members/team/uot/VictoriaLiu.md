@@ -7,5 +7,5 @@ status: board
 img: /assets/images/members/uot/victoria.png
 campus: uot
 biography: 
-linkedin: 
+linkedin: https://www.linkedin.com/in/victoria-liu2/
 ---
