@@ -19,10 +19,10 @@ weight: 2
         <h1>{{ page.title }}</h1>
       </header>
       <p>
-        Innovation OnBoard (IOB) is a University of Toronto student-led organization that helps students and researchers turn ideas into real-world impact. Since 2017, IOB has connected emerging innovators with mentors, industry leaders, investors, incubators, and academic partners through workshops, speaker panels, networking events, and our flagship Pitch Competition.
+        Innovation OnBoard (IOB) is a student-led organization that helps students and researchers turn ideas into real-world impact. Since 2017, IOB has connected emerging innovators with mentors, industry leaders, investors, incubators, and academic partners through workshops, speaker panels, networking events, and our flagship Pitch Competition.
       </p>
       <p>
-      To date, IOB has engaged <b>2,000+ individuals</b>, worked with <b>40+ mentors and judges</b>, delivered <b>15+ events</b>, supported <b>66 pitch teams</b>, and connected <b>21 teams with incubators</b>. By bridging academic talent with practical expertise and industry opportunities, we aim to equip the next generation of innovators with the skills, confidence, and network to build meaningful solutions and ventures.
+      To date, the University of Toronto chapter of IOB has engaged <b>2,000+ individuals</b>, worked with <b>40+ mentors and judges</b>, delivered <b>15+ events</b>, supported <b>66 pitch teams</b>, and connected <b>21 teams with incubators</b>. By bridging academic talent with practical expertise and industry opportunities, we aim to equip the next generation of innovators with the skills, confidence, and network to build meaningful solutions and ventures.
       </p>
       <p>
         Learn more about IOB’s vision, impact, and approach in our
