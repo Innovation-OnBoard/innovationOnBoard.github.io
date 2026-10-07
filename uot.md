@@ -38,30 +38,18 @@ weight: 2
       <div class="inner">
         <header>
           <div class="row">
-            <div class="6u 12u$(small)">
+            <div class="12u 12u$(small)">
               <div class="box">
                 <h1>Team Application</h1>
-                <p>Submit your team application for review. You will receive an email regarding the status of your application within 4 weeks. To update your team details, such as adding new members, contact us via email. The deadline to apply is <b>February 7th, 2025</b>.</p>
-                 <br>
-                <ul class="actions fit">
-                  <li>
-                   <a href="{{ '/competition-application-uot.html' | prepend: site.baseurl | prepend: site.url }}" target="_blank" class="button fit">Apply as a Team</a>
-                  </li>
-                </ul>
-              </div>
-            </div>
-            <div class="6u 12u$(small)">
-              <div class="box">
-                <h1>Pairing Application</h1>
                 <p>
-                  Complete your pairing application for review. You will receive an email regarding the pairing progress. To ensure a match with a team in your area of interest, submit your application before the deadline. The deadline to apply is <b>January 25th, 2025</b>.
-                </p>
-                <br>
-                <ul class="actions fit">
-                  <li>
-                    <a href="{{ '/competition-application-request-pairing-uot.html' | prepend: site.baseurl | prepend: site.url }}" target="_blank" class="button fit">Find My Team</a>
-                  </li>
-                </ul>
+                The 2027 Innovation OnBoard U of T Pitch Competition is coming in February 2027!
+                Team applications will open in December 2026.
+                Follow us on
+                <a href="https://www.linkedin.com/company/innovation-onboard-uoft/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+                and
+                <a href="https://www.instagram.com/iob_uoft/" target="_blank" rel="noopener noreferrer">Instagram</a>
+                for application announcements, deadlines, and event updates.
+              </p>
               </div>
             </div>
           </div>
