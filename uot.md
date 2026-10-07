@@ -1,6 +1,6 @@
 ---
 layout: university_page
-title: University of Toronto
+title: Innovation OnBoard - University of Toronto
 short-title: UoT
 landing-title: " "
 description: IOB AT UNIVERSITY OF TORONTO
@@ -19,7 +19,16 @@ weight: 2
         <h1>{{ page.title }}</h1>
       </header>
       <p>
-        Take the first step toward an exciting adventure—submit your team application today for the <b>Innovation OnBoard Pitch Competition</b> ! All accepted teams will showcase their ideas at the Innovation Fair (poster pitching), and the top teams will advance to the Final Pitch Competition (Dragon’s Den-style). Winning teams will share a prize pool of up to $3,000. Most importantly, finalists will receive guaranteed interviews and exclusive fast-track opportunities to UofT accelerators such as  <b>H2i</b>, <b>UTEST</b>, and the <b>Hatchery</b>, to bring your ideas to the next level!
+        Innovation OnBoard (IOB) is a University of Toronto student-led organization that helps students and researchers turn ideas into real-world impact. Since 2017, IOB has connected emerging innovators with mentors, industry leaders, investors, incubators, and academic partners through workshops, speaker panels, networking events, and our flagship Pitch Competition.
+      </p>
+      <p>
+      To date, IOB has engaged <b>2,000+ individuals</b>, worked with <b>40+ mentors and judges</b>, delivered <b>15+ events</b>, supported <b>66 pitch teams</b>, and connected <b>21 teams with incubators</b>. By bridging academic talent with practical expertise and industry opportunities, we aim to equip the next generation of innovators with the skills, confidence, and network to build meaningful solutions and ventures.
+      </p>
+      <p>
+        Learn more about IOB’s vision, impact, and approach in our
+        <a href="/assets/IOB_uot_Whitepaper.pdf" target="_blank" rel="noopener noreferrer">
+          Whitepaper
+        </a>.
       </p>
     </div>
   </section>
