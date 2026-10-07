@@ -17,6 +17,47 @@ weight: 1
                     <div class="timeline-info"></div>
                     <div class="timeline-marker-i"></div>
                     <div class="timeline-content">
+                        <span class="button timeline-title header-inner">October 2026</span>
+                    </div>
+                </li>
+                <li class="timeline-item">
+                    <div class="timeline-info">
+                        <span>Tuesday, October 20</span>
+                      <span class="timeline-time">4:00-6:00pm EDT</span>
+                    </div>
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <h3 class="timeline-title">The Money Talk: Startup Fundraising Unfiltered</h3>
+                         <p><span class="timeline-desc">Location</span> | <a href="https://maps.app.goo.gl/zwu9kya9iVDQSKE97" target="_blank"> Hart House, 2nd floor Music Room </a></p>
+                       <p><span class="timeline-desc">Speakers</span> | <br>
+						   <b>Salman Qadir</b> - Associate Principal at Business Development Bank of Canada (BDC) <br>
+					   <b>Kate Grant</b> - Business Advisor at Fasken </p>
+						<p><b>How do startups get funded in Canada?</b> What makes an investor take notice, or immediately lose interest? How much should founders raise, and when is the right time to raise? What makes fundraising in Canada different from elsewhere? And what actually happens after the pitch, the partner meeting, and the cheque?<p>
+						<p>Whether you’re already building a startup, exploring entrepreneurship, or simply curious about how funding actually works, this conversation is designed to give you a practical look behind the scenes.<p>
+						<p>Salman and Kate will take us through the fundraising journey from both the investor and advisor perspectives: from choosing the right source of capital and preparing for investor conversations, to understanding what happens behind closed doors after you leave the room. They’ll also unpack what happens beyond the deal being signed, how founders can build strong relationships with investors and advisors, and how Canada’s startup funding ecosystem may evolve in the years ahead.<p>
+                         <ul class="actions">
+    <li>
+        <a href="https://iob2026oct_katesalman.eventbrite.ca"
+           target="_blank"
+           rel="noopener noreferrer"
+           class="button special fit">
+            Sign Up Now!
+        </a>
+    </li>
+</ul>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+	  
+<div class="row">
+        <div class="12u$(small)">
+            <ul class="timeline">
+                <li class="timeline-item period">
+                    <div class="timeline-info"></div>
+                    <div class="timeline-marker-i"></div>
+                    <div class="timeline-content">
                         <span class="button timeline-title header-inner">September 2026</span>
                     </div>
                 </li>
@@ -28,7 +69,7 @@ weight: 1
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
                         <h3 class="timeline-title">Building in the Age of AI: The Founder's Playbook</h3>
-                         <p><span class="timeline-desc">Location</span> | <a href="https://maps.app.goo.gl/SxidSKZP8Wz87PUN6" target="_blank"> Toronto Rehab, 2nd floor Auditorium </a></p>
+                         <p><span class="timeline-desc">Location</span> | <a href="https://maps.app.goo.gl/fvoGMg3PjsZmRS7w7" target="_blank"> Toronto Rehab, 2nd floor Auditorium </a></p>
                        <p><span class="timeline-desc">Speakers</span> | <br>
 						   <b>Warren Ali</b> - Director of Industry Development at the Vector Institute <br>
 					   <b>Dr. Nardin Samuel</b> - CEO and Co-Founder of Cove Neurosciences </p>
@@ -46,6 +87,11 @@ weight: 1
         </a>
     </li>
 </ul>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
 					
 <div class="row">
         <div class="12u$(small)">
@@ -65,7 +111,7 @@ weight: 1
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
                         <h3 class="timeline-title">Before the Pitch and Beyond: Building as a Student Founder</h3>
-                         <p><span class="timeline-desc">Location</span> | <a href="https://maps.app.goo.gl/SxidSKZP8Wz87PUN6" target="_blank"> Hart House, 2nd floor Music Room </a></p>
+                         <p><span class="timeline-desc">Location</span> | <a href="https://maps.app.goo.gl/zwu9kya9iVDQSKE97" target="_blank"> Hart House, 2nd floor Music Room </a></p>
                        <p><span class="timeline-desc">Speakers</span> | <br>
 						   <b>Kino Song</b> - Co-Founder and CEO of TalkToMedi <br>
 					   <b>Dr. Sushant Singh</b> - CEO and Co-Founder of VRIT Inc.</p>
