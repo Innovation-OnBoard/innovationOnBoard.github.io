@@ -45,11 +45,12 @@ weight: 1
         </a>
     </li>
 </ul>
-              </div>
-            </li>
-          </ul>
-        </div>
-      </div>
+
+</div>
+</li>
+</ul>
+</div>
+</div>
 	  
 <div class="row">
         <div class="12u$(small)">
@@ -87,11 +88,12 @@ weight: 1
         </a>
     </li>
 </ul>
-              </div>
-            </li>
-          </ul>
-        </div>
-      </div>
+
+</div>
+</li>
+</ul>
+</div>
+</div>
 					
 <div class="row">
         <div class="12u$(small)">
