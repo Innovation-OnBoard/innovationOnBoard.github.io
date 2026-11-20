@@ -13,7 +13,131 @@ weight: 1
 <div class="row">
   <div class="12u$(small)">
     <ul class="timeline">
+    
+      <!-- DECEMBER 2026 -->
+      <li class="timeline-item period">
+        <div class="timeline-info"></div>
+        <div class="timeline-marker-i"></div>
+        <div class="timeline-content">
+          <span class="button timeline-title header-inner">December 2026</span>
+        </div>
+      </li>
 
+      <li class="timeline-item">
+        <div class="timeline-info">
+          <span>Tuesday, December 1</span>
+          <span class="timeline-time">5:00-7:00pm EST</span>
+        </div>
+
+        <div class="timeline-marker"></div>
+
+        <div class="timeline-content">
+          <h3 class="timeline-title">
+            Opening Doors: Building Power Before You Have Position
+          </h3>
+
+          <p>
+            <span class="timeline-desc">Location</span> |
+            <a href="https://www.google.com/maps/search/?api=1&amp;query=MaRS+Discovery+District+Toronto"
+               target="_blank"
+               rel="noopener noreferrer">
+              MaRS Discovery District, Collaboration Room 3
+            </a>
+          </p>
+
+          <p>
+            <span class="timeline-desc">Speaker</span> | <br>
+            <b>Phillip Mohabir</b> - Co-Founder and CEO of Vivo Surgery and Course Facilitator at Stanford Graduate School of Business
+          </p>
+
+          <p>
+            <b>How can you build connections and create opportunities when you’re just getting started?</b> Whether you’re exploring career paths, building a startup, or advancing a research project, knowing who to connect with and how to approach them can make all the difference.
+          </p>
+
+          <p>
+            Join Innovation OnBoard UofT and MaRS IAF for an interactive workshop with Phillip Mohabir. Drawing on his leadership experience and insights from working alongside Stanford Professor Jeffrey Pfeffer, Phillip will share practical strategies for building relationships and growing your influence before you have an established network or formal role.
+          </p>
+
+          <p>
+            You’ll identify three relationships to prioritize, draft an outreach message, and choose a concrete next step. The workshop will be followed by an open networking session.
+          </p>
+
+          <ul class="actions">
+            <li>
+              <a href="https://iob2026dec_phillip.eventbrite.ca"
+                 target="_blank"
+                 rel="noopener noreferrer"
+                 class="button special fit">
+                Sign Up Now!
+              </a>
+            </li>
+          </ul>
+        </div>
+      </li>
+
+
+      <!-- NOVEMBER 2026 -->
+      <li class="timeline-item period">
+        <div class="timeline-info"></div>
+        <div class="timeline-marker-i"></div>
+        <div class="timeline-content">
+          <span class="button timeline-title header-inner">November 2026</span>
+        </div>
+      </li>
+
+      <li class="timeline-item">
+        <div class="timeline-info">
+          <span>Monday, November 16</span>
+          <span class="timeline-time">6:00-8:00pm EST</span>
+        </div>
+
+        <div class="timeline-marker"></div>
+
+        <div class="timeline-content">
+          <h3 class="timeline-title">
+            Startup 101: Customer Discovery &amp; Problem Validation
+          </h3>
+
+          <p>
+            <span class="timeline-desc">Location</span> |
+            <a href="https://www.google.com/maps/search/?api=1&amp;query=UTSU+Student+Commons+230+College+St+Toronto"
+               target="_blank"
+               rel="noopener noreferrer">
+              UTSU Student Commons, 230 College St, East Lounge (4th Floor)
+            </a>
+          </p>
+
+          <p>
+            <span class="timeline-desc">Speaker</span> | <br>
+            <b>Filip Pejic</b> - Co-Founder of Bedford and UofT Rotman Alumnus
+          </p>
+
+          <p>
+            <b>Is your startup solving a real problem, or just a cool idea?</b> Join Innovation OnBoard UofT and Rotman Commerce Sales Group for a customer discovery and problem validation workshop led by Filip Pejic.
+          </p>
+
+          <p>
+            You’ll learn how to define your target customers, run interviews that uncover what they need, and use those insights to test your assumptions before investing time and resources in a solution.
+          </p>
+
+          <p>
+            The workshop will be followed by a networking session with students and aspiring founders from across UofT. Light refreshments will be provided.
+          </p>
+
+          <ul class="actions">
+            <li>
+              <a href="https://luma.com/cxl40tek"
+                 target="_blank"
+                 rel="noopener noreferrer"
+                 class="button special fit">
+                Sign Up Now!
+              </a>
+            </li>
+          </ul>
+        </div>
+      </li>
+
+      
       <!-- OCTOBER 2026 -->
       <li class="timeline-item period">
         <div class="timeline-info"></div>
