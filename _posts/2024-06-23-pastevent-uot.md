@@ -9,6 +9,16 @@ weight: 2
 ---
 <div class="row">
   <div class="12u$(small)">
+    <ul class="actions">
+      <li>
+        <a href="https://www.flickr.com/photos/201536417@N03/albums/"
+           target="_blank"
+           rel="noopener noreferrer"
+           class="button special">
+          View Event Photos on Flickr
+        </a>
+      </li>
+    </ul>
     <ul class="timeline">
 
       <!-- OCTOBER 2026 -->
